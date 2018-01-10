@@ -1,0 +1,2 @@
+rootProject.name = 'credential-generator'
+rootProject.buildFileName = 'credential-generator.gradle'
